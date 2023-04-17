@@ -194,3 +194,7 @@
         transform: translateY(-8px) rotate(-45deg);
     }
 }
+
+.main {
+    background-color: #02b0c7;
+}
